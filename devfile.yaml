@@ -1,0 +1,11 @@
+schemaVersion: 2.0.0
+metadata:
+  name: mb
+  version: 1.0.1
+  displayName: mb
+  description: mb
+components:
+  - name: mb
+    container:
+      mountSources: true
+      command: ['sleep', 'infinity']
